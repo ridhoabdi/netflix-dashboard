@@ -1,4 +1,5 @@
-# Netflix Dashboard with Tableau
+## Project Name
+Netflix Dashboard with Tableau
 
 ## Description
 Netflix Dashboard with Tableau is an interactive dashboard used to analyze data related to the usage of the Netflix video streaming platform. This dashboard leverages the Tableau data analysis software to present relevant and easily understandable information to users.
